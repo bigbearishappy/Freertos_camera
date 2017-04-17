@@ -1,0 +1,25 @@
+*** Creating Trace Output File '..\file\output\bbear_transplate.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\file\output\main.o"'
+### List of Objects: adding '"..\file\output\misc.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\file\output\core_cm3.o"'
+### List of Objects: adding '"..\file\output\system_stm32f10x.o"'
+### List of Objects: adding '"..\file\output\startup_stm32f10x_md.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\file\output\main.o" "..\file\output\misc.o" "..\file\output\stm32f10x_gpio.o" "..\file\output\stm32f10x_rcc.o" "..\file\output\core_cm3.o" "..\file\output\system_stm32f10x.o" "..\file\output\startup_stm32f10x_md.o" --strict --scatter "..\file\output\bbear_transplate.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\file\list\bbear_transplate.map" -o "..\file\output\bbear_transplate.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\file\output\bbear_transplate.axf'
+### ADS-LD Command File: '..\file\output\bbear_transplate.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\file\output\bbear_transplate.lnp', Handle=0x00000A54
+### Writing '.lnp' file
+### ADS-LD Command file '..\file\output\bbear_transplate.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

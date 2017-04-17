@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "..\file\output\main.o" "..\file\output\misc.o" "..\file\output\stm32f10x_gpio.o" "..\file\output\stm32f10x_rcc.o" "..\file\output\core_cm3.o" "..\file\output\system_stm32f10x.o" "..\file\output\startup_stm32f10x_md.o" --strict --scatter "..\file\output\bbear_transplate.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\file\list\bbear_transplate.map" -o "..\file\output\bbear_transplate.axf"
