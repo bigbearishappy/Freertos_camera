@@ -1,0 +1,54 @@
+*** Creating Trace Output File '..\file\output\BBear_FreeRTOS_demo.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\file\output\main.o"'
+### List of Objects: adding '"..\file\output\list.o"'
+### List of Objects: adding '"..\file\output\queue.o"'
+### List of Objects: adding '"..\file\output\tasks.o"'
+### List of Objects: adding '"..\file\output\port.o"'
+### List of Objects: adding '"..\file\output\heap_2.o"'
+### List of Objects: adding '"..\file\output\croutine.o"'
+### List of Objects: adding '"..\file\output\event_groups.o"'
+### List of Objects: adding '"..\file\output\timers.o"'
+### List of Objects: adding '"..\file\output\misc.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_adc.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_bkp.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_can.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_cec.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_crc.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_dac.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_dbgmcu.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_dma.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_exti.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_flash.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_fsmc.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_i2c.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_iwdg.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_pwr.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_rtc.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_sdio.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_spi.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_tim.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_usart.o"'
+### List of Objects: adding '"..\file\output\stm32f10x_wwdg.o"'
+### List of Objects: adding '"..\file\output\core_cm3.o"'
+### List of Objects: adding '"..\file\output\system_stm32f10x.o"'
+### List of Objects: adding '"..\file\output\startup_stm32f10x_md.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\file\output\main.o" "..\file\output\list.o" "..\file\output\queue.o" "..\file\output\tasks.o" "..\file\output\port.o" "..\file\output\heap_2.o" "..\file\output\croutine.o" "..\file\output\event_groups.o" "..\file\output\timers.o" "..\file\output\misc.o" "..\file\output\stm32f10x_adc.o" "..\file\output\stm32f10x_bkp.o" "..\file\output\stm32f10x_can.o" "..\file\output\stm32f10x_cec.o" "..\file\output\stm32f10x_crc.o" "..\file\output\stm32f10x_dac.o" "..\file\output\stm32f10x_dbgmcu.o" "..\file\output\stm32f10x_dma.o" "..\file\output\stm32f10x_exti.o" "..\file\output\stm32f10x_flash.o" "..\file\output\stm32f10x_fsmc.o" "..\file\output\stm32f10x_gpio.o" "..\file\output\stm32f10x_i2c.o" "..\file\output\stm32f10x_iwdg.o" "..\file\output\stm32f10x_pwr.o" "..\file\output\stm32f10x_rcc.o" "..\file\output\stm32f10x_rtc.o" "..\file\output\stm32f10x_sdio.o" "..\file\output\stm32f10x_spi.o" "..\file\output\stm32f10x_tim.o" "..\file\output\stm32f10x_usart.o" "..\file\output\stm32f10x_wwdg.o" "..\file\output\core_cm3.o" "..\file\output\system_stm32f10x.o" "..\file\output\startup_stm32f10x_md.o" 
+--strict --scatter "..\file\output\BBear_FreeRTOS_demo.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\file\list\BBear_FreeRTOS_demo.map" -o ..\file\output\BBear_FreeRTOS_demo.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\file\output\BBear_FreeRTOS_demo.axf'
+### ADS-LD Command File: '..\file\output\BBear_FreeRTOS_demo.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\file\output\BBear_FreeRTOS_demo.lnp', Handle=0x0000107C
+### Writing '.lnp' file
+### ADS-LD Command file '..\file\output\BBear_FreeRTOS_demo.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
